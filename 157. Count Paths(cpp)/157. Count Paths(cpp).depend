@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1451506861 source:c:\users\mohamedali\desktop\problemsolving\157. count paths(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+

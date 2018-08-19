@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480858300 source:d:\to copy\projects\problemsolving\baha test 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

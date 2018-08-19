@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1451564714 source:c:\users\mohamedali\desktop\problemsolving\368. count in quicksort(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+

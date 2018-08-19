@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1450980896 source:c:\users\mohamedali\desktop\problemsolving\162. frog(cpp)2.0\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<string>
+	<vector>
+	<cmath>
+

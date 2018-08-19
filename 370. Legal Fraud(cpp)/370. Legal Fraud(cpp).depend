@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1451234700 source:c:\users\mohamedali\desktop\problemsolving\370. legal fraud(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+

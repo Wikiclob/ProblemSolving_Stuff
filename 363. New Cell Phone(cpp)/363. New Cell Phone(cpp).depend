@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1451165452 source:c:\users\mohamedali\desktop\problemsolving\363. new cell phone(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+

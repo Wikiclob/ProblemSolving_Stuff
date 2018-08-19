@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1454770025 source:c:\users\mohamedali\desktop\problemsolving\uva-213 - message decoding(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+	<iterator>
+

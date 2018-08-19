@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1450908607 source:c:\users\mohamedali\desktop\problemsolving\366. prime palindrome(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<string>
+	<cstring>
+	<sstream>
+	<algorithm>
+	<vector>
+

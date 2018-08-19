@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450796141 source:c:\users\mohamedali\desktop\problemsolving\186. cryptoquote(cpp)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

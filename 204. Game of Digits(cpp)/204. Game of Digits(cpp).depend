@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1453819011 source:c:\users\mohamedali\desktop\problemsolving\204. game of digits(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+

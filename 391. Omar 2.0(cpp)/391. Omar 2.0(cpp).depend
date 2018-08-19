@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1450795316 source:c:\users\mohamedali\desktop\problemsolving\391. omar 2.0(cpp)\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<cstring>
+	<sstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450735837 source:c:\users\mohamedali\desktop\problemsolving\a. string task(cpp)\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+

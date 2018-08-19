@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1454496808 source:c:\users\mohamedali\desktop\problemsolving\uva-10851 - 2d hieroglyphs decoder(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+

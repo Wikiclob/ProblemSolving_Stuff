@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1454060959 source:c:\users\mohamedali\desktop\problemsolving\317. camping(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+

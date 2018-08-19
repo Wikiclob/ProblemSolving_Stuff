@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1465248981 source:c:\users\mohamedali\desktop\problemsolving\rubik'scubesolver(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<map>
+	<stack>
+	<sstream>
+	<fstream>
+

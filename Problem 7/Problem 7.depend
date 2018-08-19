@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456590281 source:c:\users\mohamedali\desktop\problemsolving\problem 7\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

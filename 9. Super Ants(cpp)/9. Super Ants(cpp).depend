@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1454087617 source:c:\users\mohamedali\desktop\problemsolving\9. super ants(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+

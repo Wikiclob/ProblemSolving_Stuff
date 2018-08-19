@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1455740949 source:c:\users\mohamedali\desktop\problemsolving\72. ahmed aly(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+

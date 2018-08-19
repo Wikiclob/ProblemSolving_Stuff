@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1450886410 source:c:\users\mohamedali\desktop\problemsolving\385. i love math(cpp)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+	<algorithm>
+	<cmath>
+

@@ -1,0 +1,49 @@
+\documentclass[12pt]{report}
+\usepackage{graphicx}\usepackage{longtable}
+\usepackage{fmtcount}
+\usepackage{textcomp}
+\usepackage{txfonts}
+\usepackage{makeidx}
+\usepackage{multirow}\usepackage{multicol}
+\usepackage{plain}
+\usepackage{algorithm,algorithmic}
+\usepackage{pdfpages}
+\usepackage[toc,page]{appendix}
+\usepackage[francais]{babel}\RequirePackage[T1]{fontenc}
+\usepackage[nottoc, notlof, notlot]{tocbibind}
+\usepackage{lscape}
+\usepackage[left=3cm,right=2cm,top=2cm,bottom=3cm]{geometry}
+\usepackage{url}
+\usepackage{float}
+\usepackage{bibentry}
+
+\begin{document}
+ \input{PageGarde}
+ %vous utilisez le fichier PageGardeCo.tex si vous avez un Co-encadrant pédagogique. Sinon, vous utilisez le fichier PageGarde.tex
+ \setcounter{page}{1} \pagenumbering{roman}
+\input{Dedicace.tex}
+\newpage
+\input{Remerciements.tex}
+\newpage
+\listoffigures
+\newpage
+ \listoftables
+\newpage
+\tableofcontents
+\newpage
+
+ \pagestyle{headings}
+ \setcounter{page}{1}
+\pagenumbering{arabic}
+\input{Introduction.tex}
+\input{Chapitre1.tex}
+\input{Chapitre2.tex}
+\input{Chapitre3.tex}
+\input{Chapitre4.tex}
+\input{Conclusion.tex}
+\pagestyle{plain}
+\appendix
+\input{Annexe.tex}
+\bibliographystyle{plain}
+\bibliography{Reference}
+\end{document}

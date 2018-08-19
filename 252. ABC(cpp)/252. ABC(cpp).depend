@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1455368622 source:c:\users\mohamedali\desktop\problemsolving\252. abc(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+

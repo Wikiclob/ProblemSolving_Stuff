@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1455102386 source:c:\users\mohamedali\desktop\problemsolving\hashcode(practice2)(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+

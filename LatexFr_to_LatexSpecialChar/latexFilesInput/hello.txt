@@ -1,0 +1,92 @@
+\chapter{Cadre g\'{e}n\'{e}rale du projet}
+\section{Introduction}
+Dans ce chapitre, nous allons pr\'{e}senter le cadre du projet. En premier lieu, nous proposerons une pr\'{e}sentation de l'entreprise d'accueil Linedata. Ensuite nous pr\'{e}senterons une critique de la solution existante ainsi que les solutions propos\'{e}es. Et nous cl\^oturons ce chapitre par une exposition de la m\'{e}thodologie suivie tout au long de la r\'{e}alisation du projet.
+\section{Pr\'{e}sentation de l'organisme d'accueil}
+Linedata est un \'{e}diteur de solutions globales qui travail dans le secteur de management, de l'assurance et du cr\'{e}dit. Chaque jour, plus de 63000 professionnels financiers op\'{e}rant dans 50 pays font confiance \`{a} ses technologies afin de g\'{e}rer leurs activit\'{e}s. Le logo de l'organisme d'accueil est pr\'{e}sent\'{e} par la Figure \ref{code1}
+\begin{figure}[h]
+  \centering
+  \includegraphics[scale=0.3]{linedatalogo.png}
+  \caption{Logo Linedata}
+  \label{code1}
+\end{figure}
+
+\subsection{Historique}
+Linedata est n\'{e} en Janvier 1998 du rapprochement de trois soci\'{e}t\'{e}s: \textbf{G\'{e}n\'{e}rale de service informatique (GSI) Division des Banques}, \textbf{Line Data} et \textbf{BDB Participation}. GSI Division des banques a \'{e}t\'{e} rachet\'{e}e majoritairement par ses salari\'{e}s au mois de d\'{e}cembre 1997.Un rachat d'entreprise par ses salari\'{e}(RES) a \'{e}t\'{e} soutenu par \textbf{AXA Private Equity Fund} (APEF).\\
+
+L'accquisition ult\'{e}rieure de \textbf{Line Data} et de \textbf{BDB Participation} a permis la constition d'une nouvelle soci\'{e}t\'{e}: \textbf{Linedata Services}. Cette derni\`{e}re n'est pas donc une cr\'{e}ation de toutes pi\`{e}ces mais elle avait d\'{e}s ses d\'{e}buts du savoir-faire humain et technologique ce qui lui a permis en 17 mai 2000 d'\^{e}tre introduit en bourse sur le Nouveau March\'{e} de la Bourse de Paris. Linedata est ainsi depuis 10 ans une soci\'{e}t\'{e} cot\'{e}e sur Euronext Paris.\\
+
+Linedata s'est rapidement d\'{e}velopp\'{e} pour accompagner ses clients en \'{e}largissant son offre produit tout en ciblant de nouveaux march\'{e}s. Afin d'accompagner sa croissance, Linedata a mis en place une strat\'{e}gie d'acquisition et d'int\'{e}gration r\'{e}ussie depuis plus de 15 ans:\\
+\begin{itemize}
+    \item[$\bullet$] F\'{e}vrier 2000: Les soci\'{e}t\'{e}s Bimaco Finance, Pen Lan et EKIP/Ing\'{e}n\'{e}tudes qui sont bas\'{e}es \`{a} Paris ont permis \`{a} Linedata d'appuyer sa leadership dans le domaine des cr\'{e}dits et financement.\\
+    \item[$\bullet$] Mars 2001: Longview Group, bas\'{e}e \`{a} Boston et \`{a} Londres. Cette acquisition \`{a} placer Linedata parmis les leaders mondiaux des solutions front-end pour la gestion d'actifs.\\
+    \item[$\bullet$] Janvier 2002: les actifs International Accounting Standard 2 (IAS II) de la soci\'{e}t\'{e} britannique Fund Management Services (FMS). Acquisition d'une solution informatique pour la gestion du back office comptable des Organisme de placement collectif en valeurs mobili\`{e}res (OPCVM) et des fonds institutionnels.\\
+    \item[$\bullet$] F\'{e}vrier 2003: Acquisition des solutions Icon et Pr\'{e}view qui permettent la gestion de protefeuilles. Ils ont permis au groupe de rejoindre la t\^{e}te du classement au Royaume-Uni et de consolider sa position de num\'{e}ro 1 en Europe.\\
+    \item[$\bullet$] D\'{e}cembre 2003: Acquisition de Economic and Social Data Service Solutions (ESDS) qui est un des sp\'{e}cialistes fran\c{c}ais dans le domaine des progiciels d'assurance individuelle. Ceci a permis \`{a} Linedata Services d'\^{e}tre en 2004 un acteur majeur dans le domaine d'Epargne Retraite et la Pr\'{e}voyance tout en se positionnant significativement sur le segment en tr\`{e}s forte croissance des assurances de personnes.\\
+    \item[$\bullet$] Septembre 2005: Acquisition de Global Investment Systems qui est sp\'{e}cialis\'{e}e dans les solutions logicielles de gestion back-office en Asset Management. Ceci a offert au groupe de disposer d'une offre front to back compl\`{e}te sur le march\'{e} Nord Am\'{e}ricain dans le domaine de l'Aset Management.\\
+    \item[$\bullet$] Novembre 2005: Acquisition de Beauchamp Financial Technology qui est sp\'{e}cialis\'{e}e dans les solutions progicielles de gestion d\'{e}di\'{e}es au segment des hedge funds sur le march\'{e} de l'Asset Management.\\
+    \item[$\bullet$] Juillet 2011: Acquisition de Fimasys qui est sp\'{e}cialis\'{e}e dans les solutions logicielles personnalisables d\'{e}di\'{e}es \`{a} la gestion Front, Middle et Back Office des institutions financi\`{e}res, des banques et des compagnies d'assurance.\\
+    \item[$\bullet$] Mars 2013: Acquisition de l'activit\'{e} CapitalStream aupr\`{e}s de  Hindustan Computers Limited Technologies (HCL), bas\'{e}e \`{a} Seattle et \`{a} Irvine, qui a permis \`{a} Linedata d'offrir une solution globale front to back sur les march\'{e}s des cr\'{e}dits et financements en Am\'{e}rique du Nord et en Europe.\\
+    \item[$\bullet$] Avril 2016: Acquisition de Derivation qui est l'acteur du tout premier plan sp\'{e}cialis\'{e} dans la gestion des risques, les donn\'{e}es analytiques et la gestion de portefeuille pour les g\'{e}rants institutionnels et alternatifs \`{a} l'\'{e}chelle mondiale. Cette derni\`{e}re a permis \`{a} Linedata de proposer d\'{e}sormais une plate-forme globale et compl\`{e}te sur toute la chaîne d'investissement de ses clients, et ce pour tout type d'actif et tout type de structure.\\
+    \item[$\bullet$] Janvier 2017: Acquisition de la soci\'{e}t\'{e} Gravitas qui est un fournisseur de plates-formes technologiques middle-office et de services cloud \`{a} forte valeur ajout\'{e}e pour les hedge funds. Cette derni\`{e}re \`{a} permis au groupe de continuer d'offrir des solutions compl\`{e}tes, globales et modulaires, offrant une flexibilit\'{e} et un choix encore plus grans \`{a} ses clients.\\
+\end{itemize}
+Linedata a su acqu\'{e}rir et int\'{e}grer de nombreuses soci\'{e}t\'{e}s en quelques ann\'{e}es. Cette politique pro-active lui permet d'accompagner ses clients \`{a} travers des solutions Front to Back int\'{e}gr\'{e}es et modulaires pour les professionnels de la gestion d'actifs, de l'assurance et du cr\'{e}dit \cite{LinedataHistoire}.
+\subsection{Domaines d'expertise}
+Linedata est un prestataire de solutions mondial et ind\'{e}pendant d\'{e}di\'{e} \`{a} la communaut\'{e} internationale des professionnels de l'Asset Management et du Cr\'{e}dit. Ayant plus de 900 collaborateurs r\'{e}partis dans le monde, Linedata comprend les enjeux de ses clients et leurs propose des solutions et des services innovants et adapt\'{e}s \`{a} l'\'{e}volution de leur c{\oe}ur de m\'{e}tier. Linedata met \`{a} disposition le meilleur de la technologie logicielle et du service pour r\'{e}pondre aux besoins des:\\
+\begin{itemize}
+    \item[$\bullet$] Soci\'{e}t\'{e}s de gestion et interm\'{e}diaires financiers: Soci\'{e}t\'{e}s de gestion de protefeuilles institutionnels et collectifs, administrateurs de fonds, agents de transfert, teneurs de compte d'\'{e}pargne entreprise, filiales de banques ou ind\'{e}pendants. Linedata propose toute une gamme de produits pour g\'{e}rer l'ensemble des processus d'investissement.\\
+    \item[$\bullet$] Compagnies d'assurance et mutuelles, caisses de retraite et instituts de pr\'{e}voyance: Linedata propose un progiciel unique sur le march\'{e} europ\'{e}en permettant de g\'{e}rer tous les types de contrats d'assurances de personnes depuis l'\'{e}pargne individuelle jusqu'\`{a} la pr\'{e}voyance en passant par la retraite collective.\\
+    \item[$\bullet$] Entreprises commerciales et industrielles: Linedata intervient apr\`{e}s des moyennes et grandes soci\'{e}t\'{e}s pour la gestion de leur actionnarriat salari\'{e}.\\
+    \item[$\bullet$] Etablissements de cr\'{e}dits sp\'{e}cialis\'{e}s: Cr\'{e}dit-Bail, Cr\'{e}dit \`{a} la consommation, financements de v\'{e}hicules, leasing de mat\'{e}riels, cr\'{e}dit immobilier, Linedata met \`{a} la disposition de ces sp\'{e}cialistes financiers une solution progicielle unique, globale et reconnue qui couvre l'ensemble des activit\'{e}s de cr\'{e}dit et de financement des particuliers ou des entreprises \cite{LinedataSolutions}.\\
+\end{itemize}
+\section{Etude de l'existant}
+Apr\`{e}s une observation du mode de travail des chefs d'\'{e}quipes et de diff\'{e}rents employ\'{e}s dans la soci\'{e}t\'{e}, nous avons constat\'{e} que la planification se fait de fa\c{c}on manuelle et que l'application qui g\'{e}n\'{e}re des tableaux de bords n'est utilis\'{e}e que rarement puisqu'elle ne donne pas toute les informations n\'{e}cessaire \`{a} la plannification.\\
+En gros, pour planifier les t\^{a}ches le chef d'\'{e}quipe doit consulter un tableau de bord pour chaque employ\'{e} de sont \'{e}quipe afin d'avoir quelques indicateurs de performance, puis il consulte la base de donn\'{e}es avec une requ\^{e}te SQL\footnote{Structured Query Language, en fran\c{c}ais langage de requ\^{e}te structur\'{e}e. C'est un langage informatique normalis\'{e} servant \`{a} exploiter des bases de donn\'{e}es relationnelles \cite{SQL}} afin d'avoir le reste des indicateurs. Et enfin, il fait le calcul n\'{e}cessaire et il attribut manuellement les t\^{a}ches \`{a} chaque membre de son \'{e}quipe.
+\section{Pr\'{e}sentation du projet}
+Le projet va \^{e}tre d\'{e}compos\'{e} en deux partie: La premi\`{e}re qui consiste \`{a} cr\'{e}er des tableaux de bords pour le suivi de projet(suivi de performances des collaborateurs, manque d'affectation, surcharge, d\'{e}passement ou autres indicateurs). Et la seconde partie va tourner autour de la gestion des \'{e}quipes et l'optimisation des plannings.
+\section{Langage de mod\'{e}lisation UML}
+Comme n'importe quel type de projet, un projet informatique n\'{e}cessite de l'analye et de la conception.\\
+
+Dans \textbf{la phase d'analyse}, on cherche \`{a} bien comprendre les besoins des utilisateurs. Quel est le but du logiciel? Quel sont les fonctionnalit\'{e}s demand\'{e}es? Comment devrait-il fonctionner? C'est ce qu'on appelle \textbf{l'analyse des besoins}. Apr\`{e}s la validation de notre compr\'{e}hension du besoin, nous imaginons la solution. C'est la partie d'\textbf{analyse de la solution}.
+Dans \textbf{la phase de conception}, on d\'{e}taille un peut plus la solution et on cherche \`{a} clarifier les aspects techniques.\\
+
+Pour r\'{e}aliser ces deux phases dans un projet informatique, nous utilisons des m\'{e}thodes et conventions. UML\footnote{Unified Modeling Language en anglais qui signifie langage de mod\'{e}lisation unifi\'{e}} fait partie des notations les plus utilis\'{e}es aujourd'hui.\\
+
+La notation UML est un \textbf{langage visuel} constitu\'{e} d'un ensemble de shc\'{e}mas, appel\'{e}s des \textbf{diagrammes}, qui donnent chacun une vision diff\'{e}rente du projet \`{a} traiter. UML nous permet donc de repr\'{e}senter le logiciel \`{a} d\'{e}velopper sous forme de diagrammes qui d\'{e}finissent son fonctionnement.\cite{UMLIntroduction}\\
+
+UML est constitu\'{e} de 13 diagrammes qui repr\'{e}sentent chacun un concept du syst\`{e}me. Ces derniers peuvent \^{e}tre repr\'{e}sent\'{e}s par le sch\'{e}ma de 4 vues qui est ax\'{e}es sur les besoins des utilisateurs et qu'on appelle \textbf{4+1 vues}.
+\textbf{Les besoins des utilisateurs} repr\'{e}sente le c{\oe}ur de l'analyse. On y d\'{e}crit le contexte, les acteurs du projet, les fonctionnalit\'{e}s et les interactions entre ces acteurs et ces fonctionnalit\'{e}s.\\
+Les besoins peuvent \^{e}tre repr\'{e}sent\'{e}s \`{a} l'aide de deux diagrammes:
+\begin{itemize}
+\item[$\bullet$] \textbf{Le diagramme de packages}: il permet de d\'{e}composer le syst\`{e}me en cat\'{e}gories ou parties facilement observables appel\'{e}s \textbf{packages}. Ce dernier permet aussi d'indiquer les acteurs qui interviennent dans chacun des packages.
+\item[$\bullet$] \textbf{Le diagramme de cas d'utilisation}: il permet de repr\'{e}senter les fonctionnalit\'{e}s (on dit cas d'utilisation). On peut faire un diagramme de cas d'utilisation pour le logiciel entier ou pour chaque package.\\
+\end{itemize}
+\textbf{La vue logique} a pour but d'identifier les \'{e}l\'{e}ments du domaine et les relations et interactions entre ces \'{e}l\'{e}ments. Cette vue organise les \'{e}l\'{e}ments du domaine en \textbf{cat\'{e}gories}.\\
+Deux diagrammes peuvent \^{e}tre utilis\'{e}s:
+\begin{itemize}
+\item[$\bullet$] \textbf{Le diagramme de classes}: ce diagramme repr\'{e}sente les entit\'{e}s et les associations entre ces entit\'{e}s.
+\item[$\bullet$] \textbf{Le diagramme d'objets}: ce diagramme sert \`{a} illustrer les classes complexe en utilisant des exemples d'instances. Une instance est un exemple concret de contenu d'une classe.\\
+\end{itemize}
+\textbf{La vue des processus} d\'{e}montre la d\'{e}composition du syst\`{e}me en processus et actions, les interactions entre les processus et la synchronisation et la communication des activit\'{e}s parall\`{e}les.\\
+La vue des processus peut \^{e}tre repr\'{e}sent\'{e}e par plusieurs diagrammes:
+\begin{itemize}
+\item[$\bullet$] \textbf{Le diagramme de s\'{e}quence}: il permet de d\'{e}crire les diff\'{e}rents sc\'{e}narios d'utilisation du syst\`{e}me.
+\item[$\bullet$] \textbf{Le diagramme d'activit\'{e}}: il repr\'{e}sente le d\'{e}roulement des actions, sans utiliser les objets.
+\item[$\bullet$] \textbf{Le diagramme de collaboration}: (appel\'{e} \'{e}galement diagramme de communication)il permet de mettre en \'{e}vidence les \'{e}changes de messages entre objets.
+\item[$\bullet$] \textbf{Le diagramme d'\'{e}tat-transition}: il permet de d\'{e}crire le cycle de vie des objets d'une classe.
+\item[$\bullet$] \textbf{Le diagramme global d'interaction}: il permet de donner une vue d’ensemble des interactions du syst\`{e}me. Il est r\'{e}alis\'{e} avec le m\^{e}me graphisme que le diagramme d'activit\'{e}.
+\item[$\bullet$] \textbf{Le diagramme de temps}: ce diagramme est destin\'{e} \`{a} l'analyse et la conception de syst\`{e}mes ayant des contraintes temps-r\'{e}el. Il s'agit l\`{a} de d\'{e}crire les interactions entre objets avec des contraintes temporelles fortes.\\
+\end{itemize}
+\textbf{La vue des composants} (vue de r\'{e}alisation) permet de mettre en \'{e}vidence les composant du futur syst\`{e}me(fichiers sources, biblioth\`{e}ques, base de donn\'{e}es ou autre).\\
+Cette vue comprend deux diagrammes:
+\begin{itemize}
+  \item[$\bullet$] \textbf{Le diagramme de structure composite}: il permet de d\'{e}crire un objet complexe lors de son ex\'{e}cution.
+  \item[$\bullet$] \textbf{Le diagramme de composants}: il permet de d\'{e}crire tous les composants qui interviennent dans l'\'{e}xecution du syst\`{e}me.\\
+\end{itemize}
+\textbf{La vue de d\'{e}ploiement} d\'{e}crit les ressources mat\'{e}rielles et la r\'{e}partition des parties du logiciel sur ces \'{e}l\'{e}ments.\\
+Cette vue contient qu'un diagramme:\\
+\begin{itemize}
+\item[$\bullet$] \textbf{Le diagramme de d\'{e}ploiement}: il correspond \`{a} la description de l'environnement d'ex\'{e}cution du syst\`{e}me et de la fa\c{c}on dont les composants y sont install\'{e}s \cite{UMLDiagrams}.\\
+\end{itemize}
+\section{M\'{e}thode de travail SCRUM}
+
+\section{Conclusion} 

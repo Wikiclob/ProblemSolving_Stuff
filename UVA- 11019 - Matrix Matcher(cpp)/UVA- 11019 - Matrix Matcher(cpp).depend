@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1454787469 source:c:\users\mohamedali\desktop\problemsolving\uva- 11019 - matrix matcher(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+

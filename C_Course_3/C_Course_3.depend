@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508598041 source:e:\to copy\projects\problemsolving\c_course_3\exercices.c
+	<stdio.h>
+	<stdlib.h>
+
+1508596865 source:e:\to copy\projects\problemsolving\c_course_3\main.c
+	<stdio.h>
+	<stdlib.h>
+

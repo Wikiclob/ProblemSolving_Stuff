@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1451169263 source:c:\users\mohamedali\desktop\problemsolving\365. special sort(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdio>
+	<cstring>
+	<vector>
+	<map>
+	<sstream>
+	<fstream>
+

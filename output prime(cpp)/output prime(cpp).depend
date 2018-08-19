@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1450912334 source:c:\users\mohamedali\desktop\problemsolving\output prime(cpp)\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<string>
+	<cstring>
+	<sstream>
+	<algorithm>
+	<vector>
+	<fstream>
+

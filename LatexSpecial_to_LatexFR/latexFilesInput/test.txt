@@ -1,0 +1,31 @@
+@misc{LinedataHistoire,
+    author = {Linedata},
+    title = {{Linedata history}},
+    howpublished = "\url{http://fr.linedata.com/profil/notre-histoire/}",
+    note = "[Online; accessed 26-February-2017]"
+}
+
+@misc{LinedataSolutions,
+    author = {Linedata},
+    title = {{Linedata solutions}},
+    howpublished = "\url{http://fr.linedata.com/solutions/}",
+    note = "[Online; accessed 26-February-2017]"
+}
+
+@misc{SQL,
+    title = {{SQL}},
+    howpublished = "\url{https://fr.wikipedia.org/wiki/Structured_Query_Language}",
+    note = "[Online; accessed 26-February-2017]"
+}
+
+@misc{UMLIntroduction,
+    title = {{UML, c'est quoi?}},
+    howpublished = "\url{https://openclassrooms.com/courses/debutez-l-analyse-logicielle-avec-uml/uml-c-est-quoi}",
+    note = "[Online; accessed 26-February-2017]"
+}
+
+@misc{UMLDiagrams,
+    title = {{Les diff\'{e}rents types de diagrammes}},
+    howpublished = "\url{https://openclassrooms.com/courses/debutez-l-analyse-logicielle-avec-uml/les-differents-types-de-diagrammes}",
+    note = "[Online; accessed 27-02-2017]"
+}

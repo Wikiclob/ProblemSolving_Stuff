@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488669896 source:e:\to copy\projects\problemsolving\latexspecial_to_latexfr\main.cpp
+	<bits/stdc++.h>
+	<dirent.h>
+	<sys/types.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450731185 source:c:\users\mohamedali\desktop\problemsolving\356. counting extra stars(cpp)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

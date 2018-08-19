@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1507747430 source:e:\to copy\projects\problemsolving\c_course_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"exercices.h"
+
+1507747859 source:e:\to copy\projects\problemsolving\c_course_1\exercices.c
+	<stdio.h>
+	<stdlib.h>
+
+1507747425 e:\to copy\projects\problemsolving\c_course_1\exercices.h
+
